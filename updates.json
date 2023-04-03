@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/trSlim/fm.jar/releases",
+  "1.19.2": {
+    "0.0.1b": "Beta",
+  },
+  "promos": {
+    "1.19.2-latest": "0.0.1b",
+    "1.19.2-recommended": "0.0.1b"
+  }
+}

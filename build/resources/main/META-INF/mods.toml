@@ -1,0 +1,68 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="fmjar"
+version="0.0.1"
+displayName="fm.jar"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://trslim.github.io"
+updateJSONURL="https://github.com/trslim/fm.jar/raw/master/upd.json"
+authors="MCreator, 0micro, trslim, termSlime, NoteSwiper, script1000, EnchantedSii, RblxLuauDevCode"
+description='''
+the mod adds any entities, items, blocks, etc from previous mod
+'''
+
+[[dependencies.fmjar]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.fmjar]]
+    modId="etf"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.fmjar]]
+    modId="guidebook"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.fmjar]]
+    modId="jade"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.fmjar]]
+    modId="patchouli"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.fmjar]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.fmjar]]
+    modId="reauth"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.fmjar]]
+    modId="jei"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

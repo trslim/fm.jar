@@ -1,0 +1,16 @@
+# .gitignore by git
+# 
+
+src/main/resources/**/*.cache
+
+src/main/resources/**/*.MF
+
+run/logs/*
+run/crash-reports/*
+run/config/*
+run/saves/*
+run/usercache.json
+run/usernamecache.json
+
+build/fg_cache/*
+build/tmp/*

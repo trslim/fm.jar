@@ -1,0 +1,46 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "fmjar",
+    "modName": "fm.jar",
+    "version": "0.0.1b",
+    "description": "the mod adds any entities, items, blocks, etc from previous mod",
+    "author": "MCreator, 0micro, trslim, termSlime, NoteSwiper, script1000, EnchantedSii, RblxLuauDevCode",
+    "websiteURL": "https://trslim.github.io",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "updateURL": "https://github.com/trslim/fm.jar/raw/master/upd.json",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "crafttweaker",
+      "curios_api",
+      "caelus",
+      "etf",
+      "guidebook",
+      "jade",
+      "patchouli",
+      "geckolib",
+      "playeranimator",
+      "reauth",
+      "jei",
+      "terrablenderforge"
+    ],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "git.trslim.fmjar",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
